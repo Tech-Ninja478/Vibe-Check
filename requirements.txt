@@ -1,0 +1,7 @@
+dash
+pandas
+plotly
+dash-bootstrap-components
+opencv-python
+numpy
+tensorflow
